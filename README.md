@@ -5,13 +5,13 @@ The game selects a random target sprite and the player must identify and click i
 
 ##  Gameplay Features
 
-✔ Target sprite at the top  
-✔ 9 random sprites per round  
-✔ Timer per round  
-✔ Feedback (Correct / Wrong / Time Up)  
-✔ Score and highscore system  
-✔ Sound effects  
-✔ Restart button  
+Target sprite at the top  
+9 random sprites per round  
+Timer per round  
+Feedback (Correct / Wrong / Time Up)  
+Score and highscore system  
+Sound effects  
+Restart button  
 
 ## Game Logic
 
